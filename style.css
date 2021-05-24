@@ -1,0 +1,85 @@
+h1{
+    color: solid black;
+    font-weight: 500;
+    justify-content: center;
+    padding-top: 1%;
+    text-align: center;
+    background-color:seashell;
+    
+}
+h2{
+    color: solid red;
+    font-weight: 400;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 100%;
+    margin-top: 100%;
+        background-color:lightskyblue;
+}
+.contact-container{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom:20px;
+}
+.button-container{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+.conn-container{
+    margin-top: 2%;
+    text-align: center;
+    display: flex;
+}
+/* The grid: Four equal columns that floats next to each other */
+/* .column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
+  
+  /* Style the images inside the grid */
+  /* .column img {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  
+  .column img:hover {
+    opacity: 1;
+  } */
+  
+  /* Clear floats after the columns */
+  /* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  } */
+  
+  /* The expanding image container (positioning is needed to position the close button and the text) */
+  /* .container1 {
+    position: relative;
+    display: none;
+  } */
+  
+  /* Expanding image text */
+  /* #imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+  } */
+  
+  /* Closable button inside the image */
+  /* .closebtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+  } */
